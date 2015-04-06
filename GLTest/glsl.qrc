@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vertex.glsl</file>
+        <file>fragment.glsl</file>
+        <file>MeshData.txt</file>
+        <file>MeshTextCoord.txt</file>
+        <file>MeshFace.txt</file>
+        <file>SeparateMeshFace.txt</file>
+        <file>Head.png</file>
+        <file>Jaw.png</file>
+        <file>Key.png</file>
+        <file>leg.png</file>
+    </qresource>
+</RCC>
